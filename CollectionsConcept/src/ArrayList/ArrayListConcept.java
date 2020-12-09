@@ -11,6 +11,7 @@ public class ArrayListConcept {
 		ar[1]=30;
 		ar[2]=40;
 		// ar[3]=50;  To avoid java.lang.ArrayIndexOutOfBoundsException we can go for ArrayList in Collections
+		//System.out.println("");
 		int a=ar.length;
 		System.out.println(a);
      
